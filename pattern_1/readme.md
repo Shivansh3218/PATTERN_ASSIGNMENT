@@ -1,2 +1,2 @@
 # X pattern using stars
-<img src = "O.png">
+<img src = "new.png">
